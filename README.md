@@ -1,7 +1,7 @@
 # 474project
 
 To compile:
-	gcc baboons.c -o <name> -lpthread -lrt
+	gcc prob1.c -o <name> -lpthread -lrt
 		<name> can be whatever you want to name the executable file
 
 To run:
